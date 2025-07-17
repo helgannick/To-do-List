@@ -15,10 +15,13 @@ Este é um projetinho simples de Lista de Tarefas construído com **HTML**, **Bo
 
 ## 📁 Estrutura de Arquivos
 
+```
 lista-tarefas/
-├── index.html # Página principal com a estrutura HTML
-├── script.js # Lógica da aplicação em JavaScript
-└── README.md # Instruções e informações do projeto
+├── index.html   # Página principal com a estrutura HTML
+├── script.js    # Lógica da aplicação em JavaScript
+└── README.md    # Instruções e informações do projeto
+```
+
 
 
 ---
