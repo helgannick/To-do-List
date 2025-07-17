@@ -53,7 +53,7 @@ Este projeto é ótimo para praticar:
 
 ## 📸 Preview
 
-![preview da aplicação](https://via.placeholder.com/800x400.png?text=Preview+da+Lista+de+Tarefas) <!-- Substitua pelo seu screenshot real -->
+![preview da aplicação](https://github.com/helgannick/To-do-List/issues/1#issue-3240363662) <!-- Substitua pelo seu screenshot real -->
 
 ---
 
