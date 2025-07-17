@@ -71,7 +71,7 @@ Este projeto é ótimo para praticar:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui].
+Desenvolvido por [Marcos Barbosa].
 
 Sinta-se à vontade para usar, modificar ou contribuir com melhorias! 🚀
 
